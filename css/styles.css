@@ -65,8 +65,8 @@ footer{
 	background-color: #e5ccb3;
 	padding-top: 20px;
 }
-footer a{
-	color:#ad7239;
+footer a:hover{
+	color:#ad7239 !important;
 }
 .cotact-info{
 	padding-top: 15px;
@@ -83,6 +83,10 @@ footer .fine-print{
 	margin-bottom: 15px;
 	color: #e5ccb3;
 }
+
+
+
+
 /*end of footer*/
 /*media queries*/
 @media (max-width:767px) {
